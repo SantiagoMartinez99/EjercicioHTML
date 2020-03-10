@@ -1,0 +1,26 @@
+header {
+	background: url(https://docs.microsoft.com/es-es/windows/uwp/design/style/images/header-color.svg);
+	margin-bottom: 20px;
+  	padding: 20px;
+  	text-align: center;
+  	font-size: 30px;
+  	color: white;
+}
+body{
+	background: url(https://docs.microsoft.com/es-es/windows/uwp/design/style/images/header-color.svg);
+	margin: auto;
+	background-color: #A5CADF;
+	text-align: center;
+	font-size: 16px;    
+  	line-height: 2;
+  	letter-spacing: 1px;
+  	font: small-caps 100%/200% serif;
+  	 	color: white;
+}
+table{
+	margin:auto;
+	border: white 4px solid;
+}
+td{
+	  padding: 6px;
+}
