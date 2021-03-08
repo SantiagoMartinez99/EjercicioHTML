@@ -1,2 +1,2 @@
 # EjercicioHTML
-Hoja de vida en html con css 
+Hoja de vida basica en html con css 
